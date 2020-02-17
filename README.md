@@ -4,8 +4,15 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 ## Requisitos
 NodeJS - Disponible [aquí](https://nodejs.org/dist/v12.16.0/node-v12.16.0-x64.msi)
-VS Code - Dispoible [aqu+i](https://aka.ms/win32-x64-user-stable)
-Angular-cli - 
+
+VS Code - Dispoible [aquí](https://aka.ms/win32-x64-user-stable)
+
+Angular-cli - Instalación con npm (desde la consola cmd.exe) `npm install -g @angular-cli`
+
+## Instalación del proyecto
+Clona el proyecto o descarga el zip.
+
+Instala las dependencias mediante `npm install`
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

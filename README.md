@@ -7,7 +7,7 @@ NodeJS - Disponible [aquí](https://nodejs.org/dist/v12.16.0/node-v12.16.0-x64.m
 
 VS Code - Dispoible [aquí](https://aka.ms/win32-x64-user-stable)
 
-Angular-cli - Instalación con npm (desde la consola cmd.exe) `npm install -g @angular-cli`
+Angular-cli - Instalación con npm (desde la consola cmd.exe) `npm install -g @angular/cli`
 
 ## Instalación del proyecto
 Clona el proyecto o descarga el zip.
